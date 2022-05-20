@@ -15,13 +15,9 @@ Screenshot: ![image](https://user-images.githubusercontent.com/103770530/1695619
 
 AS A USER:
 - I WANT to find a concerts based on my city and favorite genre.
-- 
 - I WANT to see weather info for the date and location of the concert.
-- 
 - SO THAT I can prepare for the concert and dress accordingly.
-- 
 - I WANT to see Covid data for the area that the concert is taking place.
-- 
 - SO THAT I can take appropriate precautions and factor that data into my purchase.
 
 ## Built With

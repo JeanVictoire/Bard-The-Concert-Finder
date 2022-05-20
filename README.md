@@ -50,9 +50,9 @@ Steven McConkey : https://github.com/StevenMcConkey
 
 # Credits
 
--w3schools : [https://www.w3schools.com/]
--Stack Overflow : [https://stackoverflow.com/]
--MDN Documentation : [https://developer.mozilla.org/en-US/]
+- 3schools : [https://www.w3schools.com/]
+- Stack Overflow : [https://stackoverflow.com/]
+- MDN Documentation : [https://developer.mozilla.org/en-US/]
 
 ## License
 

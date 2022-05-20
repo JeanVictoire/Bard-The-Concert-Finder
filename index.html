@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Head Section -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Linking CSS -->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <title>Bard the Concert Finder</title>
+  </head>
+
+  <!-- Body Section -->
+  <body>
+    <!-- Header section -->
+    <header>
+      <div class="logo">
+        <img src="./assets/images/logo.png" alt="The logo of the website" />
+      </div>
+      <div class="search1">
+        <span>
+          <input
+            class="swing"
+            id="city"
+            type="text"
+            placeholder="City name"
+          /><label for="City"></label>
+        </span>
+        <select class="select" id="genreSelect">
+          <option disabled selected>Select Genre</option>
+          <option>Religious</option>
+          <option>Hip-Hop/Rap</option>
+          <option>Jazz</option>
+          <option>Blues</option>
+          <option>R&B</option>
+          <option>Pop</option>
+          <option>Rock</option>
+          <option>Country</option>
+          <option>Ballads/Romantic</option>
+          <option>Classical</option>
+          <option>Holiday</option>
+          <option>New Age</option>
+          <option>Folk</option>
+          <option>Reggae</option>
+          <option>Metal</option>
+          <option>Dance/Electronic</option>
+          <option>Latin</option>
+          <option>Alternative</option>
+          <option>Medieval/Renaissance</option>
+          <option>Other</option>
+        </select>
+      </div>
+      <div class="search3">
+        <button class="myButton" id="searchSubmit">Search</button>
+      </div>
+    </header>
+
+    <!-- Main Section -->
+
+    <main>
+      <div class="container">
+        <div class="card" id="card-1">
+          <div class="box">
+            <div class="content">
+              <h2>01</h2>
+              <h3 id="artist-1"></h3>
+              <p id="date-1"></p>
+              <p id="time-1"></p>
+              <p id="stadium-1"></p>
+              <p id="weather-1"></p>
+              <a id="link-1" href="#" target="_blank">Ticket</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card" id="card-2">
+          <div class="box">
+            <div class="content">
+              <h2>02</h2>
+              <h3 id="artist-2"></h3>
+              <p id="date-2"></p>
+              <p id="time-2"></p>
+              <p id="stadium-2"></p>
+              <p id="weather-2"></p>
+              <a id="link-2" href="#" target="_blank">Ticket</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="card" id="card-3">
+          <div class="box">
+            <div class="content">
+              <h2>03</h2>
+              <h3 id="artist-3"></h3>
+              <p id="date-3"></p>
+              <p id="time-3"></p>
+              <p id="stadium-3"></p>
+              <p id="weather-3"></p>
+              <a id="link-3" href="#" target="_blank">Ticket</a>
+            </div>
+          </div>
+        </div>
+      </div>
+ 
+      
+        <div class="result-1"></div>
+        <div class="result-2"></div>
+        <div class="result-3"></div>
+      </div>
+
+      <div class="container" id="cont-02">
+        <div class="result-1"></div>
+        <div class="result-2"></div>
+        <div class="result-3"></div>
+      </div>
+
+      <div class="container" id="cont-03">
+        <div class="result-1"></div>
+        <div class="result-2"></div>
+        <div class="result-3"></div>
+      </div>
+    </main>
+
+    <!-- Background Stuff -->
+    <div class="bg"></div>
+    <div class="bg bg2"></div>
+    <div class="bg bg3"></div>
+
+    <!-- Footer section -->
+
+    <footer>Made with ❤️️ by The best coders &copy; Copyright 2022</footer>
+
+    <!-- Linking our JavaScript file -->
+
+    <!-- <script src="./assets/js/covid-api.js"></script> -->
+    <!-- <script src="./assets/js/ticketmaster.js"></script> -->
+    <!-- <script src="./assets/js/covid.js"></script> -->
+    <script src="./assets/js/search.js"></script>
+    <!-- <script src="./assets/js/weather.js"></script> -->
+    <!-- <script src="./assets/js/script.js"></script> -->
+  </body>
+</html>

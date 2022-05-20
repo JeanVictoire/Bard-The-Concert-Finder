@@ -7,7 +7,7 @@ Search by location and genre and find local concert information with COVID risk 
 Want to go to a concert but nervous about Covid? What about the weather?
 Well now your worries are no more! With Bard, our web application, you are able to search for a concert by simply entering a city and selecting the genre of your choice. From there, you will be presented with concerts and their relevant data such as date, time and more. Alongside this, you will be given weather data for that event and covid case numbers for that area as well. By using Bard, your worries about your next concert experience will vanish.
 
-Link to Webpage:
+Link to Webpage: https://jeanvictoire.github.io/Bard-The-Concert-Finder/
 
 Screenshot: ![image](https://user-images.githubusercontent.com/103770530/169561998-74dc5b78-8277-46a5-bcc1-3669d04a2b15.png)
 
@@ -23,10 +23,15 @@ SO THAT I can take appropriate precautions and factor that data into my purchase
 ## Built With
 
 [HTML]
+
 [CSS]
+
 [JavaScript]
+
 CDC Covid Data API
+
 Ticketmaster API [https://developer.ticketmaster.com/products-and-docs/apis/getting-started/]
+
 Open Weather API [https://openweathermap.org/api]
 
 ## Authors:

@@ -14,11 +14,15 @@ Screenshot: ![image](https://user-images.githubusercontent.com/103770530/1695619
 ## User Stories
 
 AS A USER:
-I WANT to find a concerts based on my city and favorite genre.
-I WANT to see weather info for the date and location of the concert.
-SO THAT I can prepare for the concert and dress accordingly.
-I WANT to see Covid data for the area that the concert is taking place.
-SO THAT I can take appropriate precautions and factor that data into my purchase.
+- I WANT to find a concerts based on my city and favorite genre.
+- 
+- I WANT to see weather info for the date and location of the concert.
+- 
+- SO THAT I can prepare for the concert and dress accordingly.
+- 
+- I WANT to see Covid data for the area that the concert is taking place.
+- 
+- SO THAT I can take appropriate precautions and factor that data into my purchase.
 
 ## Built With
 
@@ -28,7 +32,7 @@ SO THAT I can take appropriate precautions and factor that data into my purchase
 
 [JavaScript]
 
-CDC Covid Data API
+[CDC Covid Data API]
 
 Ticketmaster API [https://developer.ticketmaster.com/products-and-docs/apis/getting-started/]
 
